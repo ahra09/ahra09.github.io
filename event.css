@@ -3,11 +3,11 @@
 * {
     margin: 0;
     padding: 0;
-    color: #4F5C28;
 }
-
 body {
     background-color:#F6F3F0 ;
+    color: #4F5C28;
+    line-height: 1.5;
 }
 .header {
     margin-top: 50px;
